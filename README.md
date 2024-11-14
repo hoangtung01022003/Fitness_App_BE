@@ -30,8 +30,9 @@ The backend of the Fitness App is built using PHP and the Laravel framework. It 
 1. Clone the project from GitHub:
 
    ```bash
-   git clone https://github.com/your-username/fitness-app-backend.git
-   cd fitness-app-backend
+   git clone https://github.com/hoangtung01022003/Fitness_App_BE.git
+   cd Fitness_App_BE
+   
 2. Install dependencies using Composer:
 
     ```bash
