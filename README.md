@@ -1,7 +1,8 @@
 # Fitness App Backend
 
 The backend of the Fitness App is built using PHP and the Laravel framework. It serves as the REST API that communicates with the frontend, handling real-time login, displaying user data, and processing requests from the frontend.
-
+## Video Demo
+Link: https://drive.google.com/drive/folders/1ky_imzMmA74yAaXtP8QxYi8eayT7KrAn
 ## Key Features
 
 - **Real-Time Login:** Implements real-time login using Laravel's authentication system, enabling users to log in and get immediate responses.
